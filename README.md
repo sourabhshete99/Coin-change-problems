@@ -12,6 +12,8 @@ coinchange2.py - Find total number of ways to make to make change of given amoun
 coinchange3.py - Find the minimum number of denominations of coins required to make the given amount.
 
 
+
+
 STEPS TO RUN (Linux OS):
   1. Open terminal and switch to directory where the program is saved.
   2. Type "python3 coinchange1.py".
